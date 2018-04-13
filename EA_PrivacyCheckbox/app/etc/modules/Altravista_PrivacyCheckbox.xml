@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Altravista_PrivacyCheckbox>
+      <active>true</active>
+      <codePool>local</codePool>
+    </Altravista_PrivacyCheckbox>
+  </modules>
+</config>

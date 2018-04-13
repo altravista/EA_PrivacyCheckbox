@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Altravista_PrivacyCheckbox>
+            <version>1.0.1</version>
+        </Altravista_PrivacyCheckbox>
+    </modules>
+	<global>
+		<helpers>
+			<privacy_checkbox>
+				<class>Altravista_PrivacyCheckbox_Helper</class>
+			</privacy_checkbox>
+		</helpers>
+	</global>	
+</config>
